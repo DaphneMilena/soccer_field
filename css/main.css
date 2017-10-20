@@ -1,0 +1,66 @@
+.field {
+  background-color: #8cb27c;
+	width: 759px;
+	height: 379px;
+	position: relative;
+}
+.line {
+  border: 4px solid #ffffff;
+	width: 715px;
+	height: 334px;
+	top: 21px;
+	left: 21px;
+	position: relative;
+}
+.golie1{
+    border:4px solid #ffffff;
+    height: 154px;
+    width: 80px;
+    top: 91px;
+    left: -2px;
+		position: relative;
+}
+.golie2{
+    border:4px solid #ffffff;
+    height: 154px;
+    width: 80px;
+    top: -70px;
+    right: -630px;
+		position: relative;
+}
+.center {
+	border: 4px solid #ffffff;
+	border-radius: 100%;
+	width: 154px;
+	height: 154px;
+	left: 268px;
+	top: -230px;
+	position: relative;
+}
+.ball {
+	border: 10px solid #c9c3c3 ;
+	border-radius: 80%;
+	width: 0px;
+	height: 0px;
+	left: 79px;
+	top: -368px;
+	position: relative;
+}
+.ballOne{
+ border: 10px solid #c9c3c3;
+	border-radius: 80px;
+  height: 0px;
+  width: 0px;
+  left: 350px;
+	top: -470.3px;
+	position: relative;
+}
+.ballTwo{
+  border: 10px solid #c9c3c3;
+	border-radius: 80px;
+  position: relative;
+  height: 0px;
+  width: 0px;
+  top: -300px;
+  right: -600px;
+}
